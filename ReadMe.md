@@ -1,0 +1,1 @@
+It is a clone of Facebook, made in pure c++. It is a project done using OOP principles. It fethces and stores data in .txt files that are acting as the database of the system. Users can see friends, friend and unfriend other users, see feed, see their memories, react and comment on their as well as other's posts.
